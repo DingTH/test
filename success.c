@@ -2,7 +2,8 @@
 
 int main() {
 
-	printf("这次一定可以\n”);
+	printf("这次一定可以！");
+	printf("这是succes！");
 
 	return 0;
 }
